@@ -1,0 +1,13 @@
+{
+  "name": "biletix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^1.7.0",
+    "soap": "^0.29.0",
+    "lru-cache": "^5.1.1",
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0"
+  }
+}
